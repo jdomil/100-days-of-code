@@ -1,6 +1,6 @@
 # I've joined the #100DaysOfCode Challenge
 
-> Juan's #100DaysOfCode challenge repo.
+> JDomiL's #100DaysOfCode challenge repo.
 
 ## Disclaimer
 
