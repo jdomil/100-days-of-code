@@ -2,6 +2,8 @@
 
 > JDomiL's #100DaysOfCode challenge repo.
 
+[Link to the daily log](log.md).
+
 ## Disclaimer
 
 * I took the license of forking the [original repo](https://github.com/Kallaway/100-days-of-code) and tailoring it to my needs, but I still want to recognize [@ka11away](https://twitter.com/ka11away) for putting it together - I hope that's ok!
