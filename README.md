@@ -7,16 +7,13 @@
 ## Disclaimer
 
 * I took the license of forking the [original repo](https://github.com/Kallaway/100-days-of-code) and tailoring it to my needs, but I still want to recognize [@ka11away](https://twitter.com/ka11away) for putting it together - I hope that's ok!
-* I slightly modified the rules to adapt it to the stage at which I am. I am following [The Odin Project](https://www.theodinproject.com/home) (TOP) curriculum, and since I still need to dedicate a lot of time to study, I won't be pushing code to Github every day, but will be dedicating the same time to learning to code and log my progress.
-* I have already completed the "Foundations" path in TOP, so for this challenge I'll start from the top of the "Full Stack JavaScript" path.
-* If you have questions, suggestions, or feedback, feel free to follow me on Twitter and send me a DM: [@jDomiL](https://twitter.com/JDomiL).
+* I am following the [100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/) from Udemy, which aims to master Python by building 100 projects in 100 days.
 * If you have any questions or ideas about 100DaysOfCode (or other ideas), feel free to reach out to ka11away on Twitter: [@ka11away](https://twitter.com/ka11away).
 * If you like the [original repo](https://github.com/Kallaway/100-days-of-code) and find it useful, please consider &#9733; starring it (on top right of the page) and forking it. :)
 
 ## Contents
 
 * [House rules](rules.md)
-* [Log - click here to see my progress](log.md)
 * [Resources](resources.md)
 
 
