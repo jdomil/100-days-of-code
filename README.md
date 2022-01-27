@@ -2,7 +2,6 @@
 
 > JDomiL's #100DaysOfCode challenge repo.
 
-[Link to the daily log](log.md).
 
 ## Disclaimer
 
