@@ -20,6 +20,7 @@ November 18th, 2020.
 
 ## Contents
 
+* [Notes](notes.md)
 * [Rules](rules.md)
 * [FAQ](FAQ.md)
 * [Resources](resources.md)

@@ -15,6 +15,7 @@
 
 * [House rules](rules.md)
 * [Resources](resources.md)
+* [Notes](notes.md)
 
 ## Join the #100DaysOfCode challenge
 
