@@ -1,0 +1,14 @@
+{
+    "Amazon": {
+        "email": "juan@gmail.com",
+        "password": "amazon_1234"
+    },
+    "Facebook": {
+        "email": "juan@gmail.com",
+        "password": "lurking_1234"
+    },
+    "Insta": {
+        "email": "juan@gmail.com",
+        "password": "posing_1234"
+    }
+}
